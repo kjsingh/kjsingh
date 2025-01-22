@@ -1,6 +1,6 @@
 ## Hi there, I'm Kanwal! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on [Distributed Systems and Big Data]. I enjoy building impactful software and am devoted to open source community.
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on *Distributed Systems and Big Data*. I enjoy building impactful software and am devoted to open source community.
 
 Feel free to browse through my repositories, and don’t hesitate to connect with me!
 
@@ -18,11 +18,12 @@ Feel free to browse through my repositories, and don’t hesitate to connect wit
     Cloud: [AWS]
 
 🔧 Featured Projects
-Infoblox Tagger
+
+#### Infoblox Tagger
 
 High performant system to tag DNS data. Written in Go.
 
-S3 PrivateLink
+#### S3 PrivateLink
 
 [One of critical launches I have lead](https://aws.amazon.com/blogs/aws/aws-privatelink-for-amazon-s3-now-available/)
 
@@ -32,4 +33,3 @@ S3 PrivateLink
 
     LinkedIn: https://linkedin.com/in/kanwals
     Email: kanwaljit.singh@me.com
-  
