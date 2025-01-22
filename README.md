@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there, I'm Kanwal! 👋
 
-<!--
-**kjsingh/kjsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on [Distributed Systems and Big Data]. I enjoy building impactful software and am devoted to open source community.
 
-Here are some ideas to get you started:
+Feel free to browse through my repositories, and don’t hesitate to connect with me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+    Go Lang
+    Docker
+    Kubernetes
+
+🚀 Technologies & Tools
+
+    Languages: [C#, C, Scala, Kotlin, Python, Go, Nodejs, Ruby]
+    Database: [PostgreSQL, DynamoDB]
+    Tools: [Docker, Git, VS Code, Postman]
+    Cloud: [AWS]
+
+🔧 Featured Projects
+Infoblox Tagger
+
+High performant system to tag DNS data. Written in Go.
+
+S3 PrivateLink
+
+[One of critical launches I have lead](https://aws.amazon.com/blogs/aws/aws-privatelink-for-amazon-s3-now-available/)
+
+📈 GitHub Stats
+
+🤝 Let's Connect
+
+    LinkedIn: https://linkedin.com/in/kanwals
+    Email: kanwaljit.singh@me.com
+  
